@@ -6,28 +6,13 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunandan16&show_icons=true&theme=graywhite)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunandan16&layout=compact&theme=graywhite)
+![GitHub Stats](https://github-readme-stats-eight-hazel-11.vercel.app/api?username=Sunandan16&show_icons=true&theme=graywhite)
+![Top Languages](https://github-readme-stats-eight-hazel-11.vercel.app/api/top-langs/?username=Sunandan16&layout=compact&theme=graywhite)
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=Sunandan16&theme=graywhite)
 
 ---
 
-### 🌟 Featured Project — Rudra
-
-A local, voice-first AI assistant running entirely offline on WSL2 + RTX 4050. No cloud APIs, no API keys, full privacy.
-
-- 🗣️ **STT**: faster-whisper
-- 🔊 **TTS**: Kokoro-82M
-- 🧩 **LLM**: Ollama (llama3.1:8b)
-- 📚 **RAG**: ChromaDB
-- 👂 **Wake word**: openwakeword
-- 📦 Packaged as a proper Python project, dependency-managed with `uv`
-
-<!-- Replace this with your actual repo link -->
-[**→ Check out Rudra**](https://github.com/Sunandan16/Rudra)
-
----
 
 ### 💻 Tech Stack
 
