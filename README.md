@@ -2,10 +2,7 @@
 
 ### 📝 Basic Info
 
-🎓 CSE (Computer Science) student, based in Ludhiana, India
-🧠 Currently deep in a self-directed LLM/ML learning roadmap — from math foundations up to deployment
-🛠️ Building **Rudra**, a fully local, voice-first AI assistant (Ollama + faster-whisper + Kokoro-82M + ChromaDB)
-🚀 Exploring startup ideas on the side — solo builder, ship-first mindset
+🎓 CSE (Computer Science) student
 
 ---
 
